@@ -19,10 +19,10 @@
 // ***********************************************************************************
 /*                using input = prompt
         🔥 Best 5 Practice Questions for do...while Loop 🔥
-            1️⃣ Print numbers from 1 to 10.
-            2️⃣ Print reverse counting from 10 to 1.
-            3️⃣ Print even numbers from 2 to 20.
-            4️⃣ Print the multiplication table of any number.
-            5️⃣ Take user input and keep printing until they enter "stop" (using readline).
+        1️⃣ Print numbers from 1 to 10.
+        2️⃣ Print reverse counting from 10 to 1.
+        3️⃣ Print even numbers from 2 to 20.
+        4️⃣ Print the multiplication table of any number.
+        5️⃣ Take user input and keep printing until they enter "stop" (using readline).
 
 */
