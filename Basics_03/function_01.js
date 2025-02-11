@@ -1,3 +1,5 @@
+// Baic function creation
+
 function sayMyName(){
     console.log("S");
     console.log("U");
