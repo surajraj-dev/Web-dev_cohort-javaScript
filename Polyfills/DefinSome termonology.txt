@@ -1,0 +1,34 @@
+
+     Polyfills : ->builting functionality ka custom implementation karna .
+                  A polyfill is a piece of code (usually JavaScript on the Web) used to provide modern functionality
+                  on older browsers that do not natively support it.
+            :-> A polyfill is a custom implementation of a built-in functionality that is not supported in older browsers. 
+            :->It is a piece of JavaScript code that enables modern features in environments where they are not 
+                natively available.
+
+                                    Syntax : 
+                                    if (!FeatureName.prototype.MethodName) {
+                                        FeatureName.prototype.MethodName = function(args) {
+                                            // Custom implementation of the method
+                                        };
+                                    }
+
+
+  🔹What is prototype?
+        When a function or class is created in JavaScript, it automatically gets a special object called prototype. 
+        This acts as a blueprint, storing methods and properties that can be shared across all instances (objects) created 
+        from that function or class
+
+  🔹 What is __proto__?
+           Every JavaScript object has a __proto__ property. This property holds a reference to the prototype 
+           of its parent (constructor function). If an object does not have a certain property or method,JavaScript
+            looks for it in its __proto__ (which points to the parent’s prototype).
+
+
+     
+      🔥 Simple Definitions:
+            prototype → A function/class’s special object that acts as a blueprint for new objects.
+            __proto__ → A hidden property in every object that points to its parent’s prototype.
+
+
+
